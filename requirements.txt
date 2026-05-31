@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+
+torch==2.11.0
+torchvision==0.26.0
+torchmetrics==1.9.0
+torch-fidelity==0.4.0
+ipykernel==7.2.0
+tqdm==4.67.3
+datasets[vision]==4.8.4
+triton==3.6.0; sys_platform == "linux"
+triton-windows==3.6.0.post26; sys_platform == "win32"
+wandb==0.25.1
+ipywidgets==8.1.8
+einops==0.8.2
+gram-newton-schulz==0.1.4
