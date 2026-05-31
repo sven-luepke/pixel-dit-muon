@@ -1,2 +1,2 @@
-# pixel-dit-muon
-Training Diffusion Transformers with Muon
+# Training Diffusion Transformers with Muon
+Under construction...
